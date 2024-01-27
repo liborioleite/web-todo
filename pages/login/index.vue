@@ -52,7 +52,8 @@
 </template>
 <script setup>
 definePageMeta({
-    page: "login"
+    name:"login"
+
 })
 </script>
 <style></style>
